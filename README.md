@@ -15,7 +15,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Spring%20Data%20Jpa-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white" />&nbsp
+<div align="center">
+  <img src="https://img.shields.io/badge/JPA-2496ED.svg?&style=for-the-badge&logoColor=white" alt="JPA Badge" />&nbsp
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-2496ED.svg?&style=for-the-badge&logoColor=white" alt="Spring Data JPA Badge" />&nbsp
+  <img src="https://img.shields.io/badge/querydsl-2496ED.svg?style=for-the-badge&logoColor=20232a" alt="QueryDSL Badge" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
