@@ -1,6 +1,9 @@
-# LEE HOO SUNG 😉
+# hoosung_lee 😉
 
 <!--내용 부분-->
+<h3 align="center">✨ About Me ✨</h3>
+훌륭한 백엔드 개발자가 되기를 꿈꾸며 성장하고 있습니다. 동시에, 데이터베이스에도 깊은 호기심을 가지고 탐구하며, 더 나은 시스템을 구축하는 방법을 찾아 나가고 있습니다. 백엔드 개발과 DB 모두에서 전문성을 갖춘 개발자로 성장하고자 노력하고 있는 저는 이후성입니다.
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
@@ -32,10 +35,8 @@
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white" />&nbsp
-</div>
-
+  1. DB에 대해 깊게 이해해고 싶은 호기심에 Real Mysql 8.0 딥 다이브를 하고 있습니다.<br>
+  2. 자바에 대해 더 깊은 이해를 바탕으로 탄탄하고 효율적으로 코드를 짜기 위해 Effective Java 스터디를 하고 있습니다.
 <br>
 
 
