@@ -38,8 +38,7 @@
   1. DB에 대해 깊게 이해해고 싶은 호기심에 Real Mysql 8.0 딥 다이브를 하고 있습니다.<br>
   2. 자바에 대해 더 깊은 이해를 바탕으로 탄탄하고 효율적으로 코드를 짜기 위해 Effective Java 스터디를 하고 있습니다.
 <br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gntjd136)](https://solved.ac/gntjd136/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gntjd136)](https://solved.ac/gntjd136)
 
 
 <!--
